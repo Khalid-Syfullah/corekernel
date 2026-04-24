@@ -1,0 +1,9 @@
+*.o
+*.elf
+*.iso
+*.bin
+*.img
+iso/
+tags
+.cache/
+compile_commands.json
