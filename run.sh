@@ -1,2 +1,2 @@
 #!/bin/sh
-qemu-system-i386 -kernel kernel.elf
+qemu-system-i386 -kernel corekernel.elf
